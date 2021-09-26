@@ -1,2 +1,2 @@
 # Data-Structures
-Data Structures explored in assignments completed in 3rd Computer Engineering
+Data Structures and Algorithms explored in assignments completed in 3rd Computer Engineering
